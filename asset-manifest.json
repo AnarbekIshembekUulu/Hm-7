@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Hm-7/static/css/main.a7636120.css",
+    "main.js": "/Hm-7/static/js/main.de0e410c.js",
+    "static/js/787.1a1f9d60.chunk.js": "/Hm-7/static/js/787.1a1f9d60.chunk.js",
+    "static/media/jack-reacher-star-wars-interstellar-movie-john-wick-wallpaper-preview.jpg": "/Hm-7/static/media/jack-reacher-star-wars-interstellar-movie-john-wick-wallpaper-preview.8afb631f2f59bd57262b.jpg",
+    "index.html": "/Hm-7/index.html",
+    "main.a7636120.css.map": "/Hm-7/static/css/main.a7636120.css.map",
+    "main.de0e410c.js.map": "/Hm-7/static/js/main.de0e410c.js.map",
+    "787.1a1f9d60.chunk.js.map": "/Hm-7/static/js/787.1a1f9d60.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7636120.css",
+    "static/js/main.de0e410c.js"
+  ]
+}
